@@ -7,7 +7,7 @@ Directly run demo.m for reproduction.
 
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{li2021efficient,
       title     = {An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis},
