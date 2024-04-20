@@ -1,5 +1,5 @@
 # SCGCCA
-The code in this toolbox implements ["An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/9619966).
+The code in this toolbox implements ["An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/9619966) by <i>X. Li, X. Xiu, W. Liu<i>.
 
 
 ### Testing
